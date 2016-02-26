@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<students>
+<student>
+<name>John</name>
+<course>Computer Science</course>
+<country attr="a">Canada</country>
+</student>
+<student>
+<name>Ravi</name>
+<course>Mathematics</course>
+<country>India</country>
+</student>
+</students>

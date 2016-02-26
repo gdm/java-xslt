@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><students>
+<student>
+<name>John</name>
+<course>Computer Science</course>
+<country attr="fooValue">Canada</country>
+</student>
+<student>
+<name>Ravi</name>
+<course>Mathematics</course>
+<country>India</country>
+    <test>
+      <t name="a"/>
+      <t name="b"/>
+    </test>
+</student>
+</students>
